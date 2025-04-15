@@ -6,7 +6,7 @@ function checkGuess() {
   const feedbackElement = document.getElementById('feedback');
   let guess = inputElement.value;
 
-  attempts--; 
+  attempts--;
 
   if (randomNumber == guess) {
     feedbackElement.innerHTML = "Success!";
