@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game
 
-A simple and fun number guessing game built with Python. The user has a limited number of attempts to guess a randomly generated number within a given range. Helpful hints guide the user after each guess.
+A simple and fun number guessing game. The user has a limited number of attempts to guess a randomly generated number within the given range. Helpful hints guide the user after each guess.
 
 ## 🚀 Features
 
