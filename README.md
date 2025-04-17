@@ -12,7 +12,7 @@ A simple and fun number guessing game built with Python. The user has a limited 
 
 ## 📺 Live Demo
 
-![Guessing Game Demo](https://alecia-taylor.github.io/Guessing-Game/)
+https://alecia-taylor.github.io/Guessing-Game/
 
 ## ▶️ How to Run
 
